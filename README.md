@@ -1,4 +1,4 @@
-# 🚗 Vehicle Parking System (Python + Logisim)
+# 🚗 Vehicle Parking System
 
 A beginner-friendly Vehicle Parking System built using Python and Logisim Evolution.
 The Python script manages parking slots and vehicle entry/exit through a simple console interface,
